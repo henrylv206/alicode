@@ -5,12 +5,12 @@ import java.util.List;
 import java.util.Stack;
 
 // Definition for a binary tree node.
-class TreeNode {
-     int val;
-     TreeNode left;
-     TreeNode right;
-     TreeNode(int x) { val = x; }
-}
+//class TreeNode {
+//     int val;
+//     TreeNode left;
+//     TreeNode right;
+//     TreeNode(int x) { val = x; }
+//}
 
 public class PostorderTraversal {
     public List<Integer> iteration(TreeNode root) {
