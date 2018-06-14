@@ -1,7 +1,5 @@
 package com.alicode.bitree;
 
-import com.sun.deploy.util.ArrayUtil;
-
 import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
@@ -195,6 +193,6 @@ public class BiTree {
         List<String> list = Arrays.asList(lists);
 
         System.out.print(list.size());
-        Integer.MIN_VALUE
+        
     }
 }
